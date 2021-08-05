@@ -1,0 +1,26 @@
+git status => for status check;
+git push => for publish code main to github main
+
+Before "git push" ====>
+git add . => use for update code add git
+git commet -m "comment" =>use for comment 
+
+
+git pull => check update code from github 
+
+====================================
+now some command for terminal ==>
+
+
+cd "file name "=> go to file 
+ls or dir =>show file list
+start . => open folder
+code . => open a notepad for write code
+cd F: => jump to F
+pwd => check location
+mkdir "new name" => create a folder
+clear => clear 
+exit => Exit
+notepade $PROFILE => open Profile
+ wimc  bois get serialnumber  => pc Serial Number 
+Get-PoshThemes => change theme
