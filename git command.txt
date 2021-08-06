@@ -21,6 +21,7 @@ pwd => check location
 mkdir "new name" => create a folder
 clear => clear 
 exit => Exit
+cd..  => back one time
 notepade $PROFILE => open Profile
  wimc  bois get serialnumber  => pc Serial Number 
 Get-PoshThemes => change theme
