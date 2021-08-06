@@ -1,7 +1,7 @@
 /*Invoking Overriding Methods*/
 
 class Employee {
-    public String name = "Emon";
+    public String name = "Emon khan";
     public float salary = 50000;
     public void showDetails()
     {
