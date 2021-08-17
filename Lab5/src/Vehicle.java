@@ -9,5 +9,5 @@ public abstract class Vehicle {
         System.out.println(this.name+" Car has "+wheels+" wheels. It hascan run at speed of "+speed+" mph");
     }
     //abstract method fo Vehicle
-    public abstract void runsOn();
+    //public abstract void runsOn();
 }
