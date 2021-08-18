@@ -1,7 +1,7 @@
-package A1;
 
-public class Samsung extends Mobile {
-    public String color = "Blue";
+
+public class Xaiomi extends Mobile {
+    public String color = "Black";
 
 
     @Override

@@ -7,8 +7,8 @@ public String color;
         System.out.println(this.name+" Car has "+wheels+" wheels. It hascan run at speed of "+speed+" mph"+". It's color is "+color);
     }
 
-    @Override
+    /*@Override
     public void runsOn() {
         System.out.println(" Runs in the Ground");
-    }
+    }*/
 }
