@@ -1,3 +1,5 @@
+package a1;
+
 public class Vector2D{
     double x, y;
     public Vector2D(){

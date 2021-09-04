@@ -1,4 +1,6 @@
-public class Circle extends Shape{
+package a1;
+
+public class Circle extends Shape {
 
      double cArea  = 3.14*(dim1);
 

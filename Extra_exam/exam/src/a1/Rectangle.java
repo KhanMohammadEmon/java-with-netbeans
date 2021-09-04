@@ -1,4 +1,6 @@
-public class Rectangle extends Shape{
+package a1;
+
+public class Rectangle extends Shape {
 
     int rArea =dim1*dim2;
 
