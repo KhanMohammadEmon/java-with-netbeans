@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaLecture18/JavaLecture18.iml" filepath="$PROJECT_DIR$/JavaLecture18/JavaLecture18.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaLecture6/JavaLecture6.iml" filepath="$PROJECT_DIR$/JavaLecture6/JavaLecture6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Javalecture3/Javalecture3.iml" filepath="$PROJECT_DIR$/Javalecture3/Javalecture3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Lab5/Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab8(File)/Lab8(File).iml" filepath="$PROJECT_DIR$/Lab8(File)/Lab8(File).iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Lecture10.iml" filepath="$PROJECT_DIR$/Lecture10/Lecture10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture19/Lecture19.iml" filepath="$PROJECT_DIR$/Lecture19/Lecture19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Assignment/OOP_Assignment.iml" filepath="$PROJECT_DIR$/OOP_Assignment/OOP_Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_B_1/OOP_B_1.iml" filepath="$PROJECT_DIR$/OOP_B_1/OOP_B_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Exception/Practice_Exception.iml" filepath="$PROJECT_DIR$/Practice_Exception/Practice_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz3/Quiz3.iml" filepath="$PROJECT_DIR$/Quiz3/Quiz3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sayem/Sayem.iml" filepath="$PROJECT_DIR$/Sayem/Sayem.iml" />
       <module fileurl="file://$PROJECT_DIR$/java with netbeans.iml" filepath="$PROJECT_DIR$/java with netbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaClass18/javaClass18.iml" filepath="$PROJECT_DIR$/javaClass18/javaClass18.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture11/lecture11.iml" filepath="$PROJECT_DIR$/lecture11/lecture11.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture9/lecture9.iml" filepath="$PROJECT_DIR$/lecture9/lecture9.iml" />
     </modules>

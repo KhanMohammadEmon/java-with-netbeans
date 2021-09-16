@@ -3,6 +3,6 @@ public class Driver2 {
         Employees e1 = new Employees();
         e1.setSalary(10000);
         e1.tax();
-  
+
     }
 }
